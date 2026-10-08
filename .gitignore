@@ -1,0 +1,10 @@
+# Compiled Java class files
+*.class
+
+# Server runtime inquiries storage
+contacts.json
+
+# IDE configuration
+.vscode/
+.idea/
+*.iml
